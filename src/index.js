@@ -16,7 +16,7 @@ export const descriptionGame = (game) => {
     if (game === 'even-game') {
         console.log(`Answer "yes" if the number is even, otherwise answer "no".`);
     }
-    if (game === 'gdc-game') {
+    if (game === 'gcd-game') {
         console.log(`Find the greatest common divisor of given numbers.`);
     }
     if (game === 'prime-game') {
