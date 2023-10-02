@@ -14,9 +14,9 @@
 
 Установка:
 
-git clone https://github.com/KrisUvrv/brain-games.git
-make install
-npm link
+- git clone https://github.com/KrisUvrv/brain-games.git
+- make install
+- npm link
 
 Консольные команды:
 
